@@ -227,7 +227,10 @@ compliance.
 
 ## Project Documentation
 
-See the [`docs/`](docs/) folder for the detailed project report,
+## Project Documentation
+
+- [View Project Documentation (PDF)](AI_Assisted_IT_Help_Desk_Project_Documentation%20%281%29.pdf)
+- [View Editable Documentation (DOCX)](AI_Assisted_IT_Help_Desk_Project_Documentation.docx)folder for the detailed project report,
 architecture notes, and test evidence.
 
 ## Author
