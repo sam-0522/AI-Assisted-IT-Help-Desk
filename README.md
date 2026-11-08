@@ -104,7 +104,7 @@ AI output is advisory and should be reviewed by a support agent.
 
 ### P1 Response SLA
 
-![P1 Response SLA](p1-response%20SLA.png)
+![P1 Response SLA](p1%20-response%20SLA.png)
 
 ### Operations Dashboard
 
